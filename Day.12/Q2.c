@@ -39,5 +39,4 @@ int main()
         printf("Not an Armstrong Number");
     }
 
-    return 0;
-}
+    return 0 
